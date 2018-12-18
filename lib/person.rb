@@ -9,9 +9,5 @@ class Person
   end
 end
  
-  def initialize(user_name:, name:, age:, location:)
-    @user_name = user_name
-    @name = name
-    @location = location
     @age 
 end
